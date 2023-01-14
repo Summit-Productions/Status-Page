@@ -2,7 +2,7 @@ title: Summit Productions
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://example.com
+baseURL: https://strong-pudding-d7aac0.netlify.app/
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
