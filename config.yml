@@ -46,13 +46,13 @@ params:
     - name: Item Shop
       description: ""
       category: " Gun Point: Vendetta"
-    - name: Game Services
+    - name: Open World Game Services
       category: "Gun Point: Open World"
-    - name: Matchmaking
+    - name: Open World Matchmaking
       category: "Gun Point: Open World"
-    - name: Parties Friends and Messaging
+    - name: Open World Parties Friends and Messaging
       category: "Gun Point: Open World"
-    - name: Item Shop
+    - name: Open World Item Shop
       category: "Gun Point: Open World"
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
