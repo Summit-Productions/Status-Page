@@ -55,6 +55,9 @@ params:
   logo: logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: "Gun Point: Vendetta"
+      link: https://www.roblox.com/games/5573455629/Gun-Point-Vendetta-PRE-ALPHA
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
@@ -68,9 +71,6 @@ params:
       description: The main game by Summit Productions.
       closed: true
       untitled: false
-    - name: Empty Category
-    - name: Uncategorized
-      untitled: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
