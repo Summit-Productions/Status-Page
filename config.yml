@@ -75,11 +75,11 @@ params:
   categories:
     - name: " Gun Point: Vendetta"
       description: The main game by Summit Productions.
-      closed: true
+      closed: false
       untitled: false
     - name: "Gun Point: Open World"
       untitled: false
-      closed: false
+      closed: true
       description: An up-coming game by Summit Productions
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
