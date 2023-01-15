@@ -80,6 +80,7 @@ params:
     - name: "Gun Point: Open World"
       untitled: false
       closed: false
+      description: An up-coming game by Summit Productions
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
