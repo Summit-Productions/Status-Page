@@ -39,9 +39,9 @@ params:
   systems:
     - name: Game Services
       category: " Gun Point: Vendetta"
-    - name: Matchmaking
-      category: " Gun Point: Vendetta"
     - name: Parties Friends and Messaging
+      category: " Gun Point: Vendetta"
+    - name: Matchmaking
       category: " Gun Point: Vendetta"
     - name: Item Shop
       description: ""
