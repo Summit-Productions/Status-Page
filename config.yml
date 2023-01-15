@@ -69,6 +69,9 @@ params:
       description: The main game by Summit Productions.
       closed: true
       untitled: false
+    - name: "Gun Point: Open World"
+      untitled: true
+      closed: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
