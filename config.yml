@@ -41,12 +41,10 @@ params:
       category: " Gun Point: Vendetta"
     - name: Parties Friends and Messaging
       category: " Gun Point: Vendetta"
-    - name: Matchmaking
-      description: ""
-      category: " Gun Point: Vendetta"
-      link: https://example.com/
     - name: Item Shop
       description: ""
+      category: " Gun Point: Vendetta"
+    - name: Matchmaking
       category: " Gun Point: Vendetta"
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
