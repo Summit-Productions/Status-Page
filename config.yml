@@ -68,7 +68,7 @@ params:
     - name: " Gun Point: Vendetta"
       description: The main game by Summit Productions.
       closed: true
-      untitled: false
+      untitled: true
     - name: "Gun Point: Open World"
       untitled: true
       closed: false
