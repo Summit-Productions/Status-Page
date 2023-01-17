@@ -37,6 +37,12 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
+    - name: Website
+      category: Website
+    - name: API
+      category: Website
+    - name: Backup
+      category: Website
     - name: Game Services
       category: " Gun Point: Vendetta"
     - name: Parties Friends and Messaging
@@ -73,9 +79,12 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
+    - name: Website
+      closed: true
+      untitled: false
     - name: " Gun Point: Vendetta"
       description: The main game by Summit Productions.
-      closed: false
+      closed: true
       untitled: false
     - name: "Gun Point: Open World"
       untitled: false
