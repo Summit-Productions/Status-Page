@@ -80,11 +80,11 @@ params:
   ok: "#008000"
   categories:
     - name: Website
-      closed: true
+      closed: false
       untitled: false
     - name: " Gun Point: Vendetta"
       description: The main game by Summit Productions.
-      closed: true
+      closed: false
       untitled: false
     - name: "Gun Point: Open World"
       untitled: false
