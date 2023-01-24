@@ -60,6 +60,20 @@ params:
       category: "Gun Point: Open World"
     - name: Open World Item Shop
       category: "Gun Point: Open World"
+    - name: Testing Matchmaking
+      category: Testing Servers
+    - name: Testing Item Shop
+      category: Testing Servers
+    - name: Testing Purchases
+      category: Testing Servers
+    - name: Testing Clans
+      category: Testing Servers
+    - name: Testing Settings
+      category: Testing Servers
+    - name: Testing Datastores
+      category: Testing Servers
+    - name: Testing Weapons
+      category: Testing Servers
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -90,6 +104,7 @@ params:
       untitled: false
       closed: true
       description: An up-coming game by Summit Productions
+    - name: Testing Servers
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
