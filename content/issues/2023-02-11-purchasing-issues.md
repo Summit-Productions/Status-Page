@@ -25,4 +25,6 @@ severity: disrupted
 \
 **M﻿onitoring** - We are monitoring the incident and will continue to update about this incident\
 \
-**M﻿itigated** - The issue is marked as resolved but many of the bugs have been removed and should work for many within the coming hours.
+**M﻿itigated** - The issue is marked as resolved but many of the bugs have been removed and should work for many within the coming hours.\
+\
+**R﻿esolved** - All issues have been patched normal operations may continue.
