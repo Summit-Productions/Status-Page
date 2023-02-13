@@ -5,8 +5,8 @@ date: 2023-02-11T22:15:52.398Z
 resolved: true
 draft: false
 informational: false
-pin: true
-resolvedWhen: 2023-02-11T23:12:00.000Z
+pin: false
+resolvedWhen: 2023-02-12T23:12:00.000Z
 affected:
   - Item Shop
 severity: disrupted
