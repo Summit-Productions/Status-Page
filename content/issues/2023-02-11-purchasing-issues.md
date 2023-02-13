@@ -17,7 +17,7 @@ severity: disrupted
 
 **Update** - We've found the root of the issue. Our developers are working on a fix
 
-**Update** - Packs (Basic Pack, Starter Pack, Advanced Pack, Pro Pack, King Pack and Grand Pack) are now operational again. We're still monitoring the situation and working on more fixes
+**Mitigation** - Packs (Basic Pack, Starter Pack, Advanced Pack, Pro Pack, King Pack and Grand Pack) are now operational again. We're still monitoring the situation and working on more fixes
 
 **Update** - The team of developers are working hard to get the purchasing system to work back to standards again, such as the subscriptions, in-game currency, and the robux packs. We will keep you up to date.
 
