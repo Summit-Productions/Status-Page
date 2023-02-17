@@ -3,7 +3,7 @@ section: issue
 title: Purchasing Issues
 date: 2023-02-11T22:15:52.398Z
 resolved: true
-draft: true
+draft: false
 informational: false
 pin: false
 resolvedWhen: 2023-02-12T23:12:00.000Z
