@@ -2,11 +2,11 @@
 section: issue
 title: Loading Gun Defects
 date: 2023-02-17T19:01:00.000Z
-resolved: false
+resolved: true
 draft: false
 informational: false
-pin: true
-resolvedWhen: 2023-02-18T16:26:14.319Z
+pin: false
+resolvedWhen: 2023-02-18T17:30:01.741Z
 affected:
   - Testing Weapons
 severity: disrupted
@@ -16,4 +16,8 @@ severity: disrupted
 \
 0﻿4:26 PM GMT
 
-***Identified*** - We have identified the root cause ad are working to repair it.
+***Identified*** - We have identified the root cause ad are working to repair it.\
+\
+5﻿:30 PM GMT
+
+***R﻿esolved*** - We have resolved the issue, we will continue to investigate any bugs in the future.
