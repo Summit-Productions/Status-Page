@@ -15,3 +15,7 @@ affected:
 severity: down
 ---
 *Investigating* - We are currently investigating on Gun Point will not operate under V1.39. We understand this is our fault and will give a reward for this incident after the repair of it.
+
+R﻿oot cause - We have found the root cause fast and are currently testing it. 
+
+M﻿itigated - The bugs seem to be minimized we will continue to instigate any bugs to repair in the coming days.
