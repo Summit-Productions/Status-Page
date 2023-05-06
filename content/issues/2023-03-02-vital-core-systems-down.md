@@ -12,7 +12,7 @@ affected:
   - Parties Friends and Messaging
   - Matchmaking
   - Item Shop
-severity: down
+severity: notice
 ---
 *Investigating* - We are currently investigating on Gun Point will not operate under V1.39. We understand this is our fault and will give a reward for this incident after the repair of it.
 
