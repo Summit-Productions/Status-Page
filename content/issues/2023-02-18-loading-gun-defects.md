@@ -2,7 +2,7 @@
 section: issue
 title: Loading Gun Defects
 date: 2023-02-17T19:01:00.000Z
-resolved: true
+resolved: false
 draft: false
 informational: false
 pin: false
